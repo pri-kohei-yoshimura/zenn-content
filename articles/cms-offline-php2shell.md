@@ -1,5 +1,5 @@
 ---
-title: "管理画面もデータも公開サーバーに置かないホームページの仕組み「CMS OFFLINE」──PHP の重大な欠陥（PHP2Shell）を受けて"
+title: "管理画面もデータも公開サーバーに置かないホームページの仕組み「CMS OFFLINE」"
 emoji: "🗂️"
 type: "tech"
 topics:
