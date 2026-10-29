@@ -160,4 +160,4 @@ CMS OFFLINE は、WordPress の利用をやめたい会社にも、移行の手�
 
 CMS OFFLINE は、記事の作成を手元のパソコンで行い、書き出したページだけを公開することで、PHP やプラグインの欠陥による外部からの侵入を構成上防止します。AWS の鍵、執筆用のパソコン、ドメインの管理は新たな保護対象になり、多要素認証やバックアップなどの対策を併用して防止します。WordPress を使い続ける場合にも、WordPress の利用をやめたい場合にも利用できます。
 
-https://pr-i.co.jp/products/cms-offline/?utm_source=article&utm_medium=zenn_qiita&utm_campaign=php2shell
+ご相談は [CMS OFFLINE の紹介ページ](https://pr-i.co.jp/products/cms-offline/?utm_source=article&utm_medium=zenn_qiita&utm_campaign=php2shell) から受け付けています。
